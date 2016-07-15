@@ -1,0 +1,16 @@
+{
+    "name": "rmed19/fullcontactsPhpSdk",
+    "description": "A PHP wrapper for Full Contacts's API",
+    "license": "MIT license",
+    "version": "1.0.0",
+    "require": {
+        "php": ">=5.3.2",
+        "ext-curl": "*",
+        "guzzle/guzzle": "~3.7"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
