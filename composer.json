@@ -1,5 +1,5 @@
 {
-    "name": "rmed19/fullcontactsPhpSdk",
+    "name": "rmed19/fullcontacts-php-sdk",
     "description": "A PHP wrapper for Full Contacts's API",
     "license": "MIT license",
     "version": "1.0.0",
